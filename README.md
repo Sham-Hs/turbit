@@ -43,7 +43,7 @@ Infrastructure: Docker Compose
 1.Clone the repository<br>
 <pre>git clone https://github.com/Sham-Hs/turbit.git</pre>
 2.Start MongoDB<br>
-<pre> bash docker-compose up -d </pre>
+<pre> bash docker-compose up </pre>
 3.Install Backend Dependencies<br>
 <pre>pip install fastapi uvicorn pymongo requests pandas</pre>
 4.Load Sample Data<br>
